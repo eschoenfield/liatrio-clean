@@ -1,0 +1,1 @@
+[![Docker Image Tested & Pushed to Docker Hub](https://github.com/eschoenfield/liatrio-clean/actions/workflows/test-push.yml/badge.svg)](https://github.com/eschoenfield/liatrio-clean/actions/workflows/test-push.yml)
