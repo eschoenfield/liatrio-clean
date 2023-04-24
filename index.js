@@ -1,9 +1,9 @@
-const express = require('express')
-const app = express()
-const PORT = 80
+const express = require('express');
+const app = express();
+const PORT = 80;
 const object = {
     "message": 'My name is Ely Schoenfield',
-    "timestamp": time.time()
+    "timestamp": new Date.getTime()
 }
 app.get('/', (req, res) => {
     res.json(object);
